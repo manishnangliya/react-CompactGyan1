@@ -7,7 +7,7 @@ const Navbar = () => {
         < >
         <nav className="navbar navbar-dark bg-dark navbar-expand-lg navbar-light fixed-top mask-custom shadow-0">
             <div className="container">
-                <Link className="navbar-brand" to="/">
+                <Link className="navbar-brand" to="/react-CompactGyan1">
                     <span style={{color: "#5e9693"}}>Compact_</span>
                     <span style={{color: "#fff"}}>Gyan</span></Link>
                 <button className="navbar-toggler" type="button" data-mdb-toggle="collapse"
@@ -18,7 +18,7 @@ const Navbar = () => {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto">
                         <li className="nav-item">
-                            <Link className="nav-link" to="/">Home</Link>
+                            <Link className="nav-link" to="/react-CompactGyan1">Home</Link>
                         </li>
                         <li className="nav-item">
                             <Link className="nav-link" to="/contact">Contact Us</Link>
