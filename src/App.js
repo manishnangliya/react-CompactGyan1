@@ -12,7 +12,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/react-CompactGyan1" element={<Home />} />
-          <Route path="/contact" element={<Contact />} />
+          <Route path="/react-CompactGyan1/contact" element={<Contact />} />
         </Routes>
         <Footer />
       </BrowserRouter>
