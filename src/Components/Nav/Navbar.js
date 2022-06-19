@@ -21,7 +21,7 @@ const Navbar = () => {
                             <Link className="nav-link" to="/react-CompactGyan1">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/react-CompactGyan1/contact">Contact Us</Link>
+                            <Link className="nav-link" to="/contact">Contact Us</Link>
                         </li>
                     </ul>
                     <ul className="navbar-nav d-flex flex-row">
